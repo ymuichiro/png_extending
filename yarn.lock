@@ -12,12 +12,12 @@ crc-32@^0.3.0:
   resolved "https://registry.yarnpkg.com/crc-32/-/crc-32-0.3.0.tgz#6a3d3687f5baec41f7e9b99fe1953a2e5d19775e"
   integrity sha1-aj02h/W67EH36bmf4ZU6Ll0Zd14=
 
-png-chunk-text@^1.0.0:
+png-chunk-text@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/png-chunk-text/-/png-chunk-text-1.0.0.tgz#1c6006d8e34ba471d38e1c9c54b3f53e1085e18f"
   integrity sha1-HGAG2ONLpHHTjhycVLP1PhCF4Y8=
 
-png-chunks-encode@^1.0.0:
+png-chunks-encode@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/png-chunks-encode/-/png-chunks-encode-1.0.0.tgz#d9ea5e35caeeed782658c1ab7bafa7a5edb1a878"
   integrity sha1-2epeNcru7XgmWMGre6+npe2xqHg=
@@ -25,7 +25,7 @@ png-chunks-encode@^1.0.0:
     crc-32 "^0.3.0"
     sliced "^1.0.1"
 
-png-chunks-extract@^1.0.0:
+png-chunks-extract@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/png-chunks-extract/-/png-chunks-extract-1.0.0.tgz#fad4a905e66652197351c65e35b92c64311e472d"
   integrity sha1-+tSpBeZmUhlzUcZeNbksZDEeRy0=
