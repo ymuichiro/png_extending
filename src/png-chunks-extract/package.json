@@ -2,6 +2,7 @@
   "name": "png-chunks-extract",
   "version": "1.0.0",
   "description": "Extract the data chunks from a PNG file",
+  "main": "index.ts",
   "license": "MIT",
   "author": {
     "name": "Hugh Kennedy",

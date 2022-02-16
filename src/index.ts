@@ -1,4 +1,4 @@
-import { ExtractChunks, extractChunks } from "./png-chunks-extract";
+import { ExtractChunks, extractChunks } from "./png-chunks-extract/index";
 import { decode, DecodeResult } from "./png-chunk-text/decode";
 import { encode as textEncode } from "./png-chunk-text/encode";
 import { encodeChunks } from "./png-chunks-encode/index";

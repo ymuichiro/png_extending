@@ -2,7 +2,7 @@
   "name": "png-chunks-encode",
   "version": "1.0.0",
   "description": "Return a fresh PNG buffer given a set of PNG chunks",
-  "main": "index.js",
+  "main": "index.ts",
   "license": "MIT",
   "author": {
     "name": "Hugh Kennedy",
